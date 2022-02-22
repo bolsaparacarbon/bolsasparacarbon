@@ -1,0 +1,89 @@
+
+@media(max-width:1082px){
+
+    .margen{
+        max-width: 100%;
+        width: 100%;
+
+    }
+
+
+
+
+
+}
+
+@media(max-width:728px){
+    .productos{
+        width: 100%;
+        margin: 0 auto;
+    
+    
+    }
+}
+
+
+@media(max-width:699px){
+
+    .margen{
+        width: 100%;
+    }
+
+    .perfil-portada{
+        width: 100%;
+    }
+    .contenedor-categoria{
+
+    
+        width: 120px;
+        height: 140px;
+    
+    
+    
+    }
+
+    .circulo-categoria{
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    
+    }
+}
+
+
+
+
+
+
+
+@media(max-width:311px){
+    .item{
+        width: 100%;
+    }
+
+    .contenedorimagenitem{
+
+        width: 100%;
+
+    
+    }
+
+    .organizar{
+        width: 100%;
+    }
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
